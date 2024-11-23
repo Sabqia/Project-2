@@ -1,4 +1,4 @@
-# Project-2 College-Recruitment-Improvement-Study
+# Major League Soccer 
 This project focuses on web scraping and data analysis. The goal is to scrape data from websites, extract meaningful information, and perform an analysis. Data was scraped from five different web pages by reviewing their HTML source code and identifying relevant data elements. The robots.txt file of the website was carefully reviewed to determine if there were any restrictions or guidelines for web scraping. The project strictly adheres to ethical web scraping practices.The collected data is processed and analyzed to uncover insights and trends.This project demonstrates the end-to-end process of web scraping, starting from data collection to analysis, while ensuring compliance with the website's terms and conditions.
 # 4 Data Science Questions
 ## There are four Data Science questions that I answered in the project.
@@ -8,5 +8,4 @@ This project focuses on web scraping and data analysis. The goal is to scrape da
 (4) Which league has produced the top scorer in the UEFA competitions, and who is that top scorer?
 # Project Files
 ## You can find 1 file in this GitHub Respository.
-webscrape.ipynb
-
+The 'Major League Soccer.ipynb' file contains the Data Processing section, Visualizations, Statistical Analysis, and Interpretation of Results.
